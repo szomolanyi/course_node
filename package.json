@@ -1,0 +1,15 @@
+{
+  "name": "@szomolanyi/course_node",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp node.js course",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
